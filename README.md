@@ -9,4 +9,5 @@ Verifique se que o compilador C++ e as bibliotecas do GTK3 estão instalados:
 Trabalho 1.1 - Sistema Básico com Window e Viewport
 
 Comando para rodar o projeto: "sh run.sh"
+
 Comando para compilar: "make"
